@@ -58,18 +58,15 @@ This events will be triggered with the ad activity.
 
 ## 📫 How to reach me: ...
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a>
+<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
 
-## Allowed Payment Gateway
-<a href="https://wise.com/invite/ua/dulald4">TransferWise (Wise)</a> - (Global) \
-Use this email address or phone number to found me on wise.
-````java
-jewelshikderjony@gmail.com
-````
+## Payment Gateway
+Use this phone number to pay me from Bangladesh.
+
 ````java
 +8801775668913
 ````
-Bangladeshi user can send money using bkash, Nagad and Rocket. Remember my account is personal for both.
+Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     Copyright (c) 2022 Jewel Shikder Jony
